@@ -5,11 +5,16 @@ Note: Attached the dependency library files under this location so Please unzip 
 lib -->https://drive.google.com/file/d/1mYylwX76Rcq5TFvrP0qk4oBFYoelAGeR/view
 
 Attached File order
-1.Test Automation for LumiraDX (1).pptx
+1.Test Automation for LumiraDX (1).pptx  
+
 2.Test_Scenarios for Blog Category.xlsx
+
 3.Bug Report.docx
+
 4.Test Automation Execution Steps.docx
+
 5.Automated Test Script.docx
+
 6.LumiraDX.xml(Automation project file)
 
 
