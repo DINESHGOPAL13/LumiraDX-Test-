@@ -1,11 +1,15 @@
 # LumiraDX-Test-
 completed the testing for given rest_api_demo and attached documents    
-Test Automation Framework for LumiraDX ppt
-Test Scenario doc,
-Bug Report doc,
-Automation Execution Steps doc,
-Automated Test Script doc,
 
-Note: Attached the dependenct libray files under this location so Please unzip this folder and add to soapui tool lib folder path 'C:\Program Files (x86)\SmartBear\SoapUI-5.5.0\lib'
+Note: Attached the dependency library files under this location so Please unzip this folder add to soapui lib folder path 'C:\Program Files (x86)\SmartBear\SoapUI-5.5.0\lib'
+lib -->https://drive.google.com/file/d/1mYylwX76Rcq5TFvrP0qk4oBFYoelAGeR/view
+
+Attached File order
+1.Test Automation for LumiraDX (1).pptx
+2.Test_Scenarios for Blog Category.xlsx
+3.Bug Report.docx
+4.Test Automation Execution Steps.docx
+5.Automated Test Script.docx
+6.LumiraDX.xml(Automation project file)
 
 
